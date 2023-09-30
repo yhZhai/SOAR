@@ -4,7 +4,7 @@
 
 This repo contains the original PyTorch implementation of our paper:
 
-> **SOAR: Scene-debiasing Open-set Action Recognition**
+> [**SOAR: Scene-debiasing Open-set Action Recognition**](https://arxiv.org/abs/2309.01265)
 >
 > [Yuanhao Zhai](https://www.yhzhai.com), [Ziyi Liu](https://scholar.google.com/citations?user=m2k89xgAAAAJ), [Zhenyu Wu](https://wuzhenyusjtu.github.io), [Yi Wu](https://scholar.google.com/citations?user=s_8zWpgAAAAJ), [Chunluan Zhou](https://www.sites.google.com/view/chunluanzhou/), [David Doermann](https://cse.buffalo.edu/~doermann/), [Junsong Yuan](https://cse.buffalo.edu/~jsyuan/), and [Gang Hua](http://ganghua.org/)
 >
