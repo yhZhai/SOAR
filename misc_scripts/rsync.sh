@@ -1,0 +1,2 @@
+# rsync -azP --exclude 'data/' -e 'ssh -p 2222' /a2il/projects/yzhai6/CVPR2023-Model yhzhai@64.38.133.226:/hddd/yhzhai/Projects/
+rsync -azP --exclude 'data/' --exclude 'work_dirs/' -e 'ssh -p 2222' /a2il/projects/yzhai6/CVPR2023-Model yhzhai@64.38.133.226:/hddd/yhzhai/Projects/

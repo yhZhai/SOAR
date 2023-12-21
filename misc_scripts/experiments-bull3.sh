@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1,2,3 zsh tools/dist_train.sh configs/recognition/i3d/i3d_r50_dense_32x2x1_50e_ucf101_rgb_vae.py 3 --validate --cfg-options model.cls_head.loss_kld.loss_weight=1. model.cls_head.loss_recon.loss_weight=0. work_dir=./work_dirs/i3d_r50_32x2x1_50e_ucf101_rgb_cvae_kld1_recon0/
